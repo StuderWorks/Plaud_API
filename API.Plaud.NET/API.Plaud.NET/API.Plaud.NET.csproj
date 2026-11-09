@@ -7,8 +7,8 @@
         <Title>Plaud API .NET Standard 2.0 Library</Title>
         <Authors>James Studer</Authors>
         <Description>This is an UNOFFICIAL .NET Standard 2.0 Library for the PLAUD API. This is NOT supported by the PLAUD team and was created by me to use in other projects I have to fill gaps that the platform doesn't support yet.</Description>
-        <PackageProjectUrl>https://github.com/JamesStuder/Plaud_API</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/JamesStuder/Plaud_API</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/StuderWorks/Plaud_API</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/StuderWorks/Plaud_API</RepositoryUrl>
         <RepositoryType>Github</RepositoryType>
         <PackageTags>Plaud</PackageTags>
         <AssemblyVersion>2026.03.20.01</AssemblyVersion>
