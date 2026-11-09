@@ -1,4 +1,8 @@
 # Plaud API .NET Standard 2.0 Library
+
+> [!WARNING]
+> **Deprecated:** this project is no longer maintained. The repository is archived and read-only; the code stays available as-is.
+
 This is an UNOFFICIAL .NET Standard 2.0 Library for the PLAUD API.  This is NOT supported by the PLAUD team and was created by me to use in other projects I have to fill gaps that the platform doesn't support yet.  Feel free to use this Library in your projects to work with the API to perform tasks that you need with the recordings that you have created.
 
 # Implementation
